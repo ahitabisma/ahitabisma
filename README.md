@@ -1,4 +1,13 @@
-### Hi there 👋
+## 👋 Hello, World! I'm Ahita Bisma, 
+---
+
+ A passionate developer exploring the realms of coding.
+
+🚀 Full Stack Developer | Tech Enthusiast 
+
+🌟 Let's connect and create something awesome together!
+
+✉️ ahitabisma21@gmail.com
 
 <!--
 **ahitabisma/ahitabisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
