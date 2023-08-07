@@ -8,9 +8,9 @@
 
 ✉️ ahitabisma21@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahitabisma&title_color=FFFFFF&text_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ahitabisma&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahitabisma&background=333333)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahitabisma&theme=tokyonight&hide_border=true)
 
 
 <!--
