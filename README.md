@@ -8,7 +8,7 @@
 
 ✉️ ahitabisma21@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ahitabisma&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ahitabisma&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahitabisma&title_color=000000&text_color=000000&theme=tokyonight)
 
