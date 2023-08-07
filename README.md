@@ -8,6 +8,10 @@
 
 ✉️ ahitabisma21@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahitabisma)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahitabisma)
+
 <!--
 **ahitabisma/ahitabisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
