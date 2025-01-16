@@ -6,7 +6,9 @@
 
 🌟 Let's connect and create something awesome together!
 
-✉️ ahitabisma21@gmail.com
+<span><img src="https://komarev.com/ghpvc/?username=ahitabisma&label=Profile%20views&color=0e75b6&style=flat"/><span>
+
+✉️ ahitabisma21@gmail.com 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ahitabisma&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
