@@ -16,7 +16,7 @@
 
 ```ts
 const ahita = {
-  name:      "Ahita Bisma",
+  name:      "Ahita Bisma Adlula",
   role:      "Full Stack Developer",
   location:  "Indonesia 🇮🇩",
   email:     "ahitabisma21@gmail.com",
