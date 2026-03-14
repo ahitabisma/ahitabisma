@@ -20,7 +20,7 @@ const ahita = {
   role:      "Full Stack Developer",
   location:  "Indonesia 🇮🇩",
   email:     "ahitabisma21@gmail.com",
-  passion:   ["Clean Code", "Open Source", "UI/UX"],
+  passion:   ["Clean Code", "Open Source"],
   currently: "Exploring new tech & building awesome projects 🚀",
   motto:     "Code. Build. Repeat.",
 };
