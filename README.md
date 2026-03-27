@@ -73,7 +73,9 @@ const ahita = {
 <div align="center">
   <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahitabisma&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ff9e64"/>
 </div>
- 
+
+---
+
 ---
  
 ## 🌐 Connect With Me
@@ -93,8 +95,6 @@ const ahita = {
  
 *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 — Martin Fowler
- 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:414868,50:1a1b27,100:0d1117&height=120&section=footer"/>
  
 </div>
  
